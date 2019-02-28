@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SensorTest</string>
+    <string name="boutonName">Indisponible</string>
+    <string name="Accelerocolor">Accelerotest</string>
+    <string name="title_activity_accelerometer">AccelerometerActivity</string>
+    <string name="goBack">Retour</string>
+</resources>
